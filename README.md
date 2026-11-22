@@ -5,6 +5,7 @@ Guias de estudo para certificações AWS, por @renatarsilvax.
 | Certificação | Pasta | Versões |
 | --- | --- | --- |
 | AWS Certified Cloud Practitioner (CLF-C02) | [`guia-aws-clf-c02`](guia-aws-clf-c02) | Claro e escuro (PDF, português) |
+| AWS Certified AI Practitioner (AIF-C01) | [`guia-aws-aif-c01`](guia-aws-aif-c01) | Claro e escuro (PDF, português) |
 
 Conteúdo baseado nas páginas oficiais da AWS (lista completa na seção Fontes de cada guia).
 
